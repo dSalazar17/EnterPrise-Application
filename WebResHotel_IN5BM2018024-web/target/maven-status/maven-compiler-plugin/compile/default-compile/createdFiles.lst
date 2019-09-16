@@ -1,0 +1,12 @@
+com\dSalazar\managedbeans\ClienteController$ClienteControllerConverter.class
+com\dSalazar\managedbeans\ReservaController.class
+com\dSalazar\managedbeans\RegistrohuespedesController.class
+com\dSalazar\managedbeans\TipohabitacionController.class
+com\dSalazar\managedbeans\ClienteController.class
+com\dSalazar\managedbeans\util\JsfUtil$PersistAction.class
+com\dSalazar\managedbeans\util\JsfUtil.class
+com\dSalazar\managedbeans\PagoController.class
+com\dSalazar\managedbeans\PagoController$PagoControllerConverter.class
+com\dSalazar\managedbeans\ReservaController$ReservaControllerConverter.class
+com\dSalazar\managedbeans\RegistrohuespedesController$RegistrohuespedesControllerConverter.class
+com\dSalazar\managedbeans\TipohabitacionController$TipohabitacionControllerConverter.class
